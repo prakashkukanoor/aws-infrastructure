@@ -1,1 +1,1 @@
-![Description](./docs/image.svg)
+![Architecture Diagram](./docs/image.svg)
