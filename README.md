@@ -1,1 +1,1 @@
-![Architecture Diagram](./docs/image.svg)
+![Architecture Diagram](./docs/AWS-Infrastructure.svg)
