@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-10-13T16:59:45.351Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="0uFvXNblXApf7mX2JmUW" version="24.5.3" type="device">
+<mxfile host="Electron" modified="2024-10-13T17:06:47.511Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="M8kRbRo6nv48tvqLkCyG" version="24.5.3" type="device">
   <diagram name="Infra" id="OqdEOYvTGwPd7O3W1HZ8">
     <mxGraphModel dx="2044" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -278,18 +278,6 @@
         </mxCell>
         <mxCell id="c2knkcBI8ZpafIgIkcQd-70" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Servers&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.servers;" parent="c2knkcBI8ZpafIgIkcQd-1" vertex="1">
           <mxGeometry x="2000" y="641" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="c2knkcBI8ZpafIgIkcQd-71" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="c2knkcBI8ZpafIgIkcQd-1" vertex="1">
-          <mxGeometry x="-260" y="350" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="c2knkcBI8ZpafIgIkcQd-72" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="c2knkcBI8ZpafIgIkcQd-1" vertex="1">
-          <mxGeometry x="680" y="1120" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="c2knkcBI8ZpafIgIkcQd-73" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="c2knkcBI8ZpafIgIkcQd-1" vertex="1">
-          <mxGeometry x="2350" y="599" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="c2knkcBI8ZpafIgIkcQd-74" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="c2knkcBI8ZpafIgIkcQd-1" vertex="1">
-          <mxGeometry x="575" y="-220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c2knkcBI8ZpafIgIkcQd-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF00FF;dashed=1;strokeWidth=2;" parent="c2knkcBI8ZpafIgIkcQd-1" target="c2knkcBI8ZpafIgIkcQd-78" edge="1">
           <mxGeometry relative="1" as="geometry">
